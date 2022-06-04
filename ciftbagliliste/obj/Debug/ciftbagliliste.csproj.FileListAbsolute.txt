@@ -1,0 +1,18 @@
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\bin\Debug\ciftbagliliste.exe.config
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\bin\Debug\ciftbagliliste.exe
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\bin\Debug\ciftbagliliste.pdb
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\obj\Debug\ciftbagliliste.csprojAssemblyReference.cache
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\obj\Debug\ciftbagliliste.Form1.resources
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\obj\Debug\ciftbagliliste.Properties.Resources.resources
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\obj\Debug\ciftbagliliste.csproj.GenerateResource.cache
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\obj\Debug\ciftbagliliste.csproj.CoreCompileInputs.cache
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\obj\Debug\ciftbagliliste.exe
+C:\Users\balka\Documents\Visual Studio 2017\projelerim\ciftbagliliste\ciftbagliliste\obj\Debug\ciftbagliliste.pdb
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\bin\Debug\ciftbagliliste.exe.config
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\obj\Debug\ciftbagliliste.exe
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\obj\Debug\ciftbagliliste.pdb
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\bin\Debug\ciftbagliliste.exe
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\bin\Debug\ciftbagliliste.pdb
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\obj\Debug\ciftbagliliste.Form1.resources
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\obj\Debug\ciftbagliliste.Properties.Resources.resources
+C:\Users\BALKAYA\Desktop\Mustafa_Balkaya_190508063\Mustafa_Balkaya_190508063\ciftbagliliste\obj\Debug\ciftbagliliste.csproj.GenerateResource.Cache
