@@ -4,7 +4,8 @@ Bu örnek, Java programlama dilinde basit bir double linked list'in nasıl oluş
 
 ## `DoubleLinkedList` Sınıfı
 
-`DoubleLinkedList` sınıfı, double linked list'in temel yapısını sağlar. Bu sınıf, liste elemanlarını eklemek, çıkarmak ve listeyi yazdırmak gibi temel işlemleri içerir.
+The double class provides the basic structure of the linked list. This class contains basic operations such as adding and removing list elements and printing the list.
+
 
 ```java
 public class DoubleLinkedList<T> {
