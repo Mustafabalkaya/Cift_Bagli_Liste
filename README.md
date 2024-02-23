@@ -1,6 +1,6 @@
 # Java Double Linked List Example
 
-Bu örnek, Java programlama dilinde basit bir double linked list'in nasıl oluşturulacağını ve kullanılacağını göstermektedir.
+This example shows how to create and use a simple double linked list in the Java programming language.
 
 ## `DoubleLinkedList` Sınıfı
 
