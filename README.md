@@ -16,6 +16,7 @@ public class DoubleLinkedList<T> {
 
         Node(T data) {
             this.data = data;
+
         }
     }
 
